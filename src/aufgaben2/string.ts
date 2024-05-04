@@ -185,8 +185,8 @@ document.write(
 document.close();
 
 // Number-Methods-TS-Level-1_2
-let num = 5.824452;
-let n = num.toFixed(2);
+let num0 = 5.824452;
+let n = num0.toFixed(2);
 console.log(n);
 let num1 = 15.16698;
 let a = num1.toFixed(2);
