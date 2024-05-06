@@ -9,6 +9,8 @@ import './style.css';
 
 // import './03_Conditional_math_date/date';
 
-import './aufgaben3/string';
+// import './aufgaben3/string';
 
 // import './aufgaben4/string'
+
+import './aufgaben5/string'

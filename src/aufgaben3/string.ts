@@ -1,4 +1,4 @@
-import { differenceInSeconds, isSameISOWeek } from "date-fns";
+import { differenceInSeconds} from "date-fns";
 
 // Intro-TS-Level-1_15    
 const num: number  = 5;
