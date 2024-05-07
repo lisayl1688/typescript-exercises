@@ -83,3 +83,4 @@ const lyrics: string =
   'In the town where I was born. Lived a man who sailed to sea. And he told us of his life. In the land of submarines. So we sailed on to the sun';
 const lyricsSentences = lyrics.split('.');
 console.log(lyricsSentences);
+
