@@ -17,4 +17,8 @@ import './style.css';
 
 // import './06_arrays2/array2';
 
-import './aufgaben6/string '
+// import './aufgaben6/string '
+
+// import './aufgaben9/string'
+
+import './aufgaben11/string'

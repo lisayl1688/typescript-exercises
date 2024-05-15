@@ -1,0 +1,14 @@
+Vorgehensweise
+
+1. Aufgabenstellung verstehen
+2. Plan machen: Schritt 1 - x
+3. Neues Vite-Projekt anlegen: npm create vite@latest
+4. HTML
+5. TypeScript
+   - alle relevanten Elemente holen
+   - EventListener definieren
+   - mit console.log testen, ob alle Klicks funktionieren
+   - eigentliche Logik entwickeln
+6. CSS
+7. Ausgiebig testen
+8. Bonus?

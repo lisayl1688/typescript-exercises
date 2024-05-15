@@ -18,7 +18,7 @@ console.log(Math.random());
 console.log(Math.random());
 
 //* zwischen 1 und 10 zb 
-const randomSmallerThanOne = Math.random();
+let randomSmallerThanOne = Math.random();
 console.log('zufallszahl:', randomSmallerThanOne);
 const randomFloatToTen = randomSmallerThanOne = 10;
 console.log('zufall*10:', randomFloatToTen);

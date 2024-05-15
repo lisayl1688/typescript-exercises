@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Planner</title>
+</head>
+<body>
+    <h1>Meal Planner</h1>
+    <form>
+        <input id="meal-name-input" type="text" placeholder="enter meal name">
+        <button id="add-meal-btn">Add Meal</button>
+    </form>
+
+    <select id="select-week">
+        <option value="1">Week 1</option>
+        <option value="2">Week 2</option>
+        <option value="3">Week 3</option>
+        <option value="4">Week 4</option>
+    </select>
+
+    <section>
+        <h2 id="week-headline"></h2>
+        <ul id="week-list"></ul>
+    </section>
+
+    
+    <script type="module" src="./meal-planner-recap.ts"></script>
+</body>
+</html>
