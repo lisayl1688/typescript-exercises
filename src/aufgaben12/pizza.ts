@@ -12,7 +12,7 @@ enum PizzaIngredients {
     Salami
 }
 
-type Pizza = { PizzaSize: PizzaSize; PizzaIngredients: PizzaIngredients[]}
+type Pizza = { PizzaSize: PizzaSize; PizzaIngredients: PizzaIngredients[]};
 
 const erstePizza: Pizza = {
     PizzaSize: PizzaSize.Familie,

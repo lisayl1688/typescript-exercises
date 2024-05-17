@@ -23,10 +23,12 @@ import './style.css';
 
 // import './aufgaben11/string'
 
-import './aufgaben12/string'
+// import './aufgaben12/string'
 // import './aufgaben12/days-months'
 // import './aufgaben12/pizza'
 
 
 // import './aufgaben12/favoriteBands'
 // import './aufgaben12/employee'
+
+import './aufgaben12/color-buttons.ts'
