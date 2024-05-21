@@ -31,4 +31,8 @@ import './style.css';
 // import './aufgaben12/favoriteBands'
 // import './aufgaben12/employee'
 
-import './aufgaben12/color-buttons.ts'
+// import './aufgaben12/color-buttons.ts'
+// import './aufgaben14/aufgaben14/DOM-TS_Level-1_4/DOM-TS_Level-1_4'
+// import './aufgaben14/DOM-TS-Level-1_2/DOM-TS-Level-1_2'
+// import './aufgaben14/DOM-TS-Level-1_3/DOM-TS-Level-1_3'
+import './aufgaben14/Dom-Elements-TS-Level-1_1/Dom-Elements-TS-Level-1_1'

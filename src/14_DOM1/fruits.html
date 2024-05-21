@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fruits</title>
+    <link rel="stylesheet" href="fruits.css" />
+  </head>
+  <body>
+    <main id="app">
+      <h1>Pick a fruit</h1>
+      <div id="fruit-list" class="fruits"></div>
+      <!-- einen Anfangswert direkt im HTML anzeigen, noch bevor der TS-Code durchläuft -->
+      <h2 id="selected-fruit">You picked: Nothing</h2>
+      <input id="age-input" type="number" placeholder="Your age" min="0" max="130" />
+      <button id="show-age-button">Show age</button>
+      <button id="reset-age-button">Reset age</button>
+      <p id="age-output">Kein Alter eingegeben</p>
+    </main>
+  </body>
+  <!-- Den Link zur ts-Datei immer ganz ans Ende/nach dem letzten Element, damit alle Elemente da sind -->
+  <script type="module" src="./fruits.ts"></script>
+</html>
