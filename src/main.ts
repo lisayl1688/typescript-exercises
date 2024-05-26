@@ -36,4 +36,13 @@ import './style.css';
 // import './aufgaben14/DOM-TS-Level-1_2/DOM-TS-Level-1_2'
 // import './aufgaben14/DOM-TS-Level-1_3/DOM-TS-Level-1_3'
 // import './aufgaben14/Dom-Elements-TS-Level-1_1/Dom-Elements-TS-Level-1_1'
-import './aufgaben15/Dom-Elements-TS-Level-1_9/Dom-Elements-TS-Level-1_9'
+// import './aufgaben15/Dom-Elements-TS-Level-1_9/Dom-Elements-TS-Level-1_9'
+
+// import './aufgaben17/Functions-TS-Level-2_2/Functions-TS-Level-2_2'
+
+
+// import './aufgaben17/Functions-TS-Level-1_6/Functions-TS-Level-1_6'
+
+
+// import './aufgaben17/Functions-TS-Grundlagen-Level-1_2/Functions-TS-Grundlagen-Level-1_2'
+import './aufgaben17/This-TS-Level-1_2/This-TS-Level-1_2'
