@@ -28,6 +28,8 @@ import './style.css';
 // import './aufgaben12/pizza'
 
 
+
+
 // import './aufgaben12/favoriteBands'
 // import './aufgaben12/employee'
 
@@ -45,4 +47,14 @@ import './style.css';
 
 
 // import './aufgaben17/Functions-TS-Grundlagen-Level-1_2/Functions-TS-Grundlagen-Level-1_2'
-import './aufgaben17/This-TS-Level-1_2/This-TS-Level-1_2'
+// import './aufgaben17/This-TS-Level-1_2/This-TS-Level-1_2'
+
+// import './aufgaben18/Module-Namensräume-TS-1_1/apps'
+
+// import './aufgaben18/Module-Namensräume-TS-1_2/apps'
+
+// import './aufgaben18/Module-Namensräume-TS-1_3/apps'
+
+// import './aufgaben18/Module-Namensräume-TS-2_1/app'
+
+import './aufgaben18/Module-Namensräume-TS-3_1/app'

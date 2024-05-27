@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ES2020",
     "useDefineForClassFields": true,
+    //? sollte auf ESNext sein-letzte version von ECMA-Script
     "module": "ESNext",
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "skipLibCheck": true,
@@ -10,7 +11,8 @@
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    //? sollte false sein, damit types exportiert werden können
+    "isolatedModules": false,
     "noEmit": true,
 
     /* Linting */
