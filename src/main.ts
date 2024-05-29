@@ -57,4 +57,5 @@ import './style.css';
 
 // import './aufgaben18/Module-Namensräume-TS-2_1/app'
 
-import './aufgaben18/Module-Namensräume-TS-3_1/app'
+// import './aufgaben18/Module-Namensräume-TS-3_1/app'
+import './aufgaben20/OOP-Class-TS-Level-1_1/app'
