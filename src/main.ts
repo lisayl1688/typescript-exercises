@@ -58,4 +58,23 @@ import './style.css';
 // import './aufgaben18/Module-Namensräume-TS-2_1/app'
 
 // import './aufgaben18/Module-Namensräume-TS-3_1/app'
-import './aufgaben20/OOP-Class-TS-Level-1_1/app'
+// import './aufgaben20/OOP-Class-TS-Level-1_1/app'
+
+// import './aufgaben20/OOP-Class-TS-Level-1_2/app'
+
+// import './aufgaben20/OOP-Class-TS-Level-2_1/app'
+
+
+// import './aufgaben20/OOP-Class-TS-Level-2_2/app'
+
+// import './aufgaben21/OOP-Class-TS-Level-1_3/app'
+
+// import './aufgaben22/OOP-Class-TS-Level-1_4/app'
+// import './aufgaben22/OOP-Class-TS-Level-1_5/app'
+
+// import './aufgaben23/OOP-Interfaces-TS-Level-1_1/Contracts/app'
+
+// import './aufgaben24/OOP-Class-TS-Level-1_7/app'
+
+// import './aufgaben24/OOP-Class-TS-Level-1_8/app'
+import './aufgaben24/OOP-Class-TS-Level-1_11/app'

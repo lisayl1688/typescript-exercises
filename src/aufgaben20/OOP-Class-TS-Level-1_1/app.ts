@@ -32,6 +32,14 @@ stracciatellaEis.description = "superlecker";
 
 
 const IceCreamFlavorSammlung : IceCreamFlavor[] = [];
-IceCreamFlavorSammlung.push(new IceCreamFlavor());
-console.log(IceCreamFlavor);
+IceCreamFlavorSammlung.push(erdbeerEis);
+IceCreamFlavorSammlung.push(schokoEis);
+IceCreamFlavorSammlung.push(vanilleEis);
+IceCreamFlavorSammlung.push(stracciatellaEis);
+
+console.log(erdbeerEis.isPopular);
+console.log(schokoEis.isPopular);
+console.log(vanilleEis.isPopular);
+console.log(stracciatellaEis.isPopular);
+
 
