@@ -77,4 +77,13 @@ import './style.css';
 // import './aufgaben24/OOP-Class-TS-Level-1_7/app'
 
 // import './aufgaben24/OOP-Class-TS-Level-1_8/app'
-import './aufgaben24/OOP-Class-TS-Level-1_11/app'
+// import './aufgaben24/OOP-Class-TS-Level-1_11/app'
+
+
+// import './aufgaben27/OOP-TypeCast-Level-1_1/app'
+// import './aufgaben27/OOP-UnionType-Level-1_1/app'
+
+// import './aufgaben27/OOP-IntersectionType-Level-1_1/alcohol'
+
+import './aufgaben27/TS-ErrorHandling-Level-1_1/user-input'
+// import './aufgaben27/TS-ErrorHandling-Level-2_1/lotto-number';
