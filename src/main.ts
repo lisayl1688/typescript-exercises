@@ -85,5 +85,29 @@ import './style.css';
 
 // import './aufgaben27/OOP-IntersectionType-Level-1_1/alcohol'
 
-import './aufgaben27/TS-ErrorHandling-Level-1_1/user-input'
+// import './aufgaben27/TS-ErrorHandling-Level-1_1/user-input'
 // import './aufgaben27/TS-ErrorHandling-Level-2_1/lotto-number';
+
+
+// import './aufgabrn28/Bom-TS-Level-1_1/index'
+
+// import './aufgabrn28/Bom-TS-Level-1_2/index'
+
+// import './aufgabrn28/Bom-TS-Level-1_3/index'
+
+// import './aufgabrn28/Bom-TS-Level-2_1/index'
+
+// import './aufgaben29/callback-TS-Level-1_1/add-numbers'
+// import './aufgaben29/callback-TS-Level-1_2/showAlert'
+
+// import './aufgaben29/callback-TS-Level-1_4/max'
+
+// import './aufgaben29/callback-TS-Level-2_1/callback-cascade'
+
+
+// import './aufgaben30/Promises-TS-Level-1_1/she-loves-me'
+
+// import './aufgaben30/Promises-TS-Level-1_2/forecast'
+
+// import './aufgaben30/Promises-TS-Level-1_3/homework'
+import './aufgaben30/Promises-TS-Level-2_1/number-methods'
