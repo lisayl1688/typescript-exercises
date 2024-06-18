@@ -18,8 +18,10 @@ const h1headlineInput = document.getElementById('headline') as HTMLElement;
 const randomButton = document.getElementById('randomButton') as HTMLButtonElement;
 
 
-function randomNUmber (){
+const numberArray : number [] = [2,56,43,13,11,70,]
 
+function randomNUmber (){
+    let randomNumber= Math.floor(Math.random() * numberArray.length);
 }
 
 function randomText (){
@@ -35,5 +37,23 @@ function randomBoolean (){
 function randomEmoji (){
     
 }
+
+// - Definiere eine Funktion updateHeadline, die eine Callback-Funktion (Rückgabewert: string) als Parameter erhält und den Rückgabewert dieser Callback-Funktion in das h1-Element mit der ID "headline" schreibt.
+// - Füge einen Event Listener für den Random-Button hinzu
+//     - dort soll nach dem Zufallsprinzip eine der zuvor definierten vier Funktionen ausgewählt und an die updateHeadline-Funktion übergeben werden
+
+function showMaximum (numbers: number[], callback: (max: number) => number) {
+    const sortedArray = numberArray.sort(sortDescending);
+    const maxNumber = sortedArray[0];
+    console.log(maxNumber);
+    const result = callback(maxNumber);
+    console.log(result);
+    console.log("Finished with showMaximum");
+}
+
+function updateHeadline (callback: (call: string) => string) {
+
+}
+
 
 

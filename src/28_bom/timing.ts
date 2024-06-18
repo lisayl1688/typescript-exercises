@@ -14,17 +14,7 @@ export {};
 // ? Rufe eine Schnittstelle/Server auf und bekomme nach 60 Sekunden immer noch
 // ? keine Antwort kommt: Anzeige "Hier ist etwas schiefgelaufen"/
 // ? "Server nicht erreichbar"
-window.setTimeout(() => {
-  // window.alert('Schauen sie noch weiter Netflix?');
-}, 5000);
-// clearTimeout() - aufräumen wäre sauber, muss aber nicht passieren
-// ? Alternative Schreibweise zur anonymen Funktion
-// ! hier ohne runde Klammern - nur den Namen von der Funktion
-window.setTimeout(showError, 3000);
 
-function showError() {
-  console.log('Server ist nicht verfügbar');
-}
 
 // * man kann eine Zeit definieren, nach der etwas immer wieder ausgeführt wird
 // ? mache alle Sekunden xy

@@ -110,4 +110,6 @@ import './style.css';
 // import './aufgaben30/Promises-TS-Level-1_2/forecast'
 
 // import './aufgaben30/Promises-TS-Level-1_3/homework'
-import './aufgaben30/Promises-TS-Level-2_1/number-methods'
+// import './aufgaben30/Promises-TS-Level-2_1/number-methods'
+
+import './aufgaben32/fetch-level-1_2/index'
