@@ -112,4 +112,7 @@ import './style.css';
 // import './aufgaben30/Promises-TS-Level-1_3/homework'
 // import './aufgaben30/Promises-TS-Level-2_1/number-methods'
 
-import './aufgaben32/fetch-level-1_2/index'
+// import './aufgaben32/fetch-level-1_2/index'
+
+// import './aufgaben33/fetch-level-2_2/todo'
+import './08_loops/meal-planner-recap'
